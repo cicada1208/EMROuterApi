@@ -1,0 +1,13 @@
+# CYCH .gitignore file
+
+# Project Tracking
+.vs/
+.vscode
+
+# Artifacts
+bin/
+obj/
+packages/
+
+# Temp file
+*.tmp
